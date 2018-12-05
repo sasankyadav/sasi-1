@@ -1,4 +1,4 @@
-a=int(input(" "))
+a=int(input(""))
 h=0
 b=a
 for i in range(0,a+1):
